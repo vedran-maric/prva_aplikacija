@@ -1,0 +1,19 @@
+D:\Vedran Projekti\Fakultet\Faks 5. godina\mobilne-aplikacije\prva_aplikacija>flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 3.47.8, on Microsoft Windows [Version 10.0.19045.6456], locale hr-BA)
+[√] Windows Version (10 Enterprise 64-bit, 22H2, 2009)
+[√] Android toolchain - develop for Android devices (Android SDK version 36.0.0)
+[√] Chrome - develop for the web
+[√] Visual Studio - develop Windows apps (Visual Studio Community 2022 17.12.2)
+[√] Connected device (3 available)
+[√] Network resources
+
+• No issues found!
+
+
+D:\Vedran Projekti\Fakultet\Faks 5. godina\mobilne-aplikacije\prva_aplikacija>git log --oneline -5
+ca7662a (HEAD -> vjezba-01, origin/vjezba-01) Osobni podaci i samostalne izmjene
+dc738c1 Prvi zaslon i Dart primjer
+21f0290 (main) Pocetni Flutter projekt
+
+D:\Vedran Projekti\Fakultet\Faks 5. godina\mobilne-aplikacije\prva_aplikacija>
