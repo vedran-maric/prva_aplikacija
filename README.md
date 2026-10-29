@@ -1,3 +1,4 @@
+Vedran Marić - Windows 10 - Pixel 9 je korišteni emulator na Asus ROG Strix G laptopu. Izmjene su rađene kako su navela uputstva, a uputstva za instalaciju nisu pomogla nimalo jer vec koristim stariji Android Studio za protrebe drugog projekta u Unreal Engine-u te se sve zakompliciralo 10 puta vise nego sto bi trebalo... Ali proradilo je na kraju :D
 
 ---FLUTTER
 Flutter 3.47.8
@@ -47,3 +48,11 @@ D:\Vedran Projekti\Fakultet\Faks 5. godina\mobilne-aplikacije\prva_aplikacija>fl
     • All expected network resources are available.
 
 • No issues found!
+
+
+
+--- Provjera razumijevanja 1:
+Skup sadrži 2 elementa jer su prvi i drugi uneseni element jednaki te ih racuna jednom. Za Miu ispisuje broj 0 jer smo naveli provjeru ako joj je vrijednost null (tj. nema vrijednosti) onda napisi 0
+
+--- Provjera razumijevanja 2:
+naslov je označen s required jer svaki zadatak mora imati naslov. Parametar zavrsen je u pocetku false jer se smatra po defaultu da nije zavrsen. Ako unesemo zadatak bez naslova nastat ce greska jer nedostaje obavezni argument naslov
